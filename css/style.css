@@ -360,13 +360,13 @@ nav input{
 }
 
 .paragraph{
-    font-size: 18px;
+    font-size: 16px;
     color: #646464;
     text-align: justify;
     font-weight: normal;
 }
 .text-warning{
-    font-size: 28px;
+    font-size: 29px;
     color: #fdb813;
     font-weight: 700;
 }
@@ -436,6 +436,10 @@ a.button {
     font-size: 20px;
     font-weight: 600;
     margin: 16px 0;
+}
+
+.left-info p{
+    font-size: 18px;
 }
 
 .testimonial{

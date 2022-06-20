@@ -454,10 +454,12 @@ a.button {
     font-size: 20px;
     font-weight: 600;
     margin: 16px 0;
+    color: #000000;
 }
 
 .left-info p{
     font-size: 18px;
+    color: #646464;
 }
 
 .testimonial{
